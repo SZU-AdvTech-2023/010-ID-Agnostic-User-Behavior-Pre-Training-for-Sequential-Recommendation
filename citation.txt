@@ -1,0 +1,8 @@
+@inproceedings{REPO010,
+    author = "Mu, Shanlei and Hou, Yupeng and Zhao, Wayne Xin and Li, Yaliang and Ding, Bolin",
+    booktitle = "Information Retrieval: 28th China Conference, CCIR 2022",
+    numpages = "12",
+    pages = "16¨C27",
+    title = "{ID-Agnostic User Behavior Pre-Training for Sequential Recommendation}",
+    year = "2023"
+}
